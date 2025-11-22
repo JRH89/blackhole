@@ -1,6 +1,6 @@
 # Blackhole Theme Pack
 
-Blackhole is a cohesive UI theme built around deep charcoal backgrounds and muted pastel highlights. The repository bundles ready-to-use configuration snippets for Wayland components, terminals, editors, and companion utilities so you can give your entire desktop a consistent look in minutes.
+Blackhole is an Omarchy theme built around deep charcoal backgrounds and muted pastel highlights. The repository bundles ready-to-use configuration snippets for Wayland components, terminals, editors, and companion utilities so you can give your entire desktop a consistent look in minutes.
 
 ## Installation
 
