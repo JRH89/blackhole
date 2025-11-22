@@ -44,16 +44,6 @@ Refer to individual configs for the full 16-color terminal palette.
 | `neovim.lua` | LazyVim plugin spec that injects the `aether.nvim` palette |
 | `vscode.json` | VS Code workbench color customizations |
 
-## Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-account>/blackhole ~/.local/share/blackhole-theme
-   cd ~/.local/share/blackhole-theme
-   ```
-2. **Back up existing configs** before overwriting: `cp ~/.config/alacritty/alacritty.toml{,.bak}`
-3. **Copy or symlink** the files you need into their respective config directories. Examples:
-
 ### Hyprland & Hyprlock
 
 1. Include the snippet inside your main Hyprland config:
