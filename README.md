@@ -12,7 +12,7 @@ omarchy-theme-install https://github.com/JRH89/blackhole
 
 ![Blackhole desktop overview](https://firebasestorage.googleapis.com/v0/b/hookerhillstu.appspot.com/o/blackhole%2Fscreenshot-2025-11-21_16-51-06.png?alt=media&token=8b6d4ec0-df55-49cc-9e47-35d090675f48)
 
-![Terminal and widgets](https://firebasestorage.googleapis.com/v0/b/hookerhillstu.appspot.com/o/blackhole%2Fscreenshot-2025-11-21_17-06-30.png?alt=media&token=3f71efc4-9702-45e7-ae17-791ba40e4fd9)
+![Terminal and widgets](https://firebasestorage.googleapis.com/v0/b/hookerhillstu.appspot.com/o/blackhole%2Fscreenshot-2025-11-22_15-52-50.png?alt=media&token=596bd873-0dd0-4427-bea0-d87e06757bc8)
 
 ![Launcher and panels](https://firebasestorage.googleapis.com/v0/b/hookerhillstu.appspot.com/o/blackhole%2Fscreenshot-2025-11-21_17-07-09.png?alt=media&token=254ebc74-a05d-49d0-a397-ecc4be95045c)
 
