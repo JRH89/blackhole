@@ -17,16 +17,3 @@ omarchy-theme-install https://github.com/JRH89/blackhole
 ![Launcher and panels](https://firebasestorage.googleapis.com/v0/b/hookerhillstu.appspot.com/o/blackhole%2Fscreenshot-2025-11-21_17-07-09.png?alt=media&token=254ebc74-a05d-49d0-a397-ecc4be95045c)
 
 ![Launcher and panels](https://firebasestorage.googleapis.com/v0/b/hookerhillstu.appspot.com/o/blackhole%2Fscreenshot-2025-11-21_20-04-30.png?alt=media&token=29e36a92-a4e1-4a90-b1ff-90de27ede17d)
-
-## Color Palette
-
-| Token | Hex | Usage |
-| --- | --- | --- |
-| Base Background | `#070912` | Primary background across all apps |
-| Accent Border | `#32374d` | Window borders, separators |
-| Primary Foreground | `#ffffff` | Text and icons |
-| Warm Accent | `#cd9a79` | Highlights, progress bars |
-| Cool Accent | `#8c80d5` | Selection, focus states |
-| Soft Neutral | `#D3C7B7` | Secondary text / graphs |
-
-Refer to individual configs for the full 16-color terminal palette.
